@@ -15,6 +15,8 @@ Clone the repository and setup **.env** file with following keys:
 
 **NOTE**: By default in development mode localhost will be used for redis connection.
 
+Run npm i
+
 ## Routes
 
 All routes are under `/api/v1`
